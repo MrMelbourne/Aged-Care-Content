@@ -77,13 +77,13 @@ font-size: 40px;
 
 @media screen and (max-width: 992px) {
   body {
-    background-color: orange;
+    background-color: #40C575;
   }
 }
 
 @media screen and (max-width: 600px) {
   body {
-    background-color: purple;
+    background-color: #40C575;
   }
 }
 
